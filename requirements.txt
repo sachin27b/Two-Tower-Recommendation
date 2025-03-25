@@ -7,3 +7,4 @@ torchaudio
 transformers
 sentence_transformers
 annoy
+mlflow

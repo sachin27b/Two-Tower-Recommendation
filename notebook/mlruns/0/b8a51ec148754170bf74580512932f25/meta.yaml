@@ -1,0 +1,15 @@
+artifact_uri: file:///home/linuxachin/Desktop/Codes/Two-Tower-Recommendation/notebook/mlruns/0/b8a51ec148754170bf74580512932f25/artifacts
+end_time: 1742887533773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8a51ec148754170bf74580512932f25
+run_name: kindly-boar-352
+run_uuid: b8a51ec148754170bf74580512932f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742887332466
+status: 3
+tags: []
+user_id: linuxachin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/linuxachin/Desktop/Codes/Two-Tower-Recommendation/notebook/mlruns/0/6c250c87dd5345918b8504950089b454/artifacts
+end_time: 1742888158989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c250c87dd5345918b8504950089b454
+run_name: righteous-cod-582
+run_uuid: 6c250c87dd5345918b8504950089b454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742887615096
+status: 3
+tags: []
+user_id: linuxachin
