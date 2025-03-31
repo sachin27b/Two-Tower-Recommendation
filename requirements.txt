@@ -8,3 +8,6 @@ transformers
 sentence_transformers
 annoy
 mlflow
+beautifulsoup4
+ipywidgets
+faiss

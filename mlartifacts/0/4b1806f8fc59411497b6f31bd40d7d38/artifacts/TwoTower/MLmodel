@@ -1,0 +1,22 @@
+artifact_path: TwoTower
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.11
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cu124
+mlflow_version: 2.21.0
+model_size_bytes: 300508
+model_uuid: e548c95f3f8b43fbae4e96684ef67221
+prompts: null
+run_id: 4b1806f8fc59411497b6f31bd40d7d38
+utc_time_created: '2025-03-29 10:46:15.606979'

@@ -1,0 +1,28 @@
+artifact_path: TwoTower
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.11
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cu124
+is_signature_from_type_hint: false
+mlflow_version: 2.21.0
+model_size_bytes: 595548
+model_uuid: 6de499bfb740496790fb1523b176adf1
+prompts: null
+run_id: f30f249e25a14bc5a17f10ac9ba5e4fb
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 4608]}}]'
+  outputs: null
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-31 07:41:58.121793'

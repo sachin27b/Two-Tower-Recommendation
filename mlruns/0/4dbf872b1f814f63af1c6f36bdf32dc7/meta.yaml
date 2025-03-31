@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4dbf872b1f814f63af1c6f36bdf32dc7/artifacts
+end_time: 1743010907731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dbf872b1f814f63af1c6f36bdf32dc7
+run_name: redolent-goose-391
+run_uuid: 4dbf872b1f814f63af1c6f36bdf32dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743010527016
+status: 3
+tags: []
+user_id: linuxachin

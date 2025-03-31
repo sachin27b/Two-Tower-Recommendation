@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3bfb63931cd44a1a9074f1a7dd9b390b/artifacts
+end_time: 1743059247069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bfb63931cd44a1a9074f1a7dd9b390b
+run_name: sassy-midge-866
+run_uuid: 3bfb63931cd44a1a9074f1a7dd9b390b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743058094420
+status: 3
+tags: []
+user_id: linuxachin

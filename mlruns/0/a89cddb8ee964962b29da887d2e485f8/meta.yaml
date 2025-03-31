@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a89cddb8ee964962b29da887d2e485f8/artifacts
+end_time: 1743282810939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a89cddb8ee964962b29da887d2e485f8
+run_name: righteous-donkey-486
+run_uuid: a89cddb8ee964962b29da887d2e485f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743282450915
+status: 3
+tags: []
+user_id: linuxachin

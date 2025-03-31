@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e50a6b70c170479c99c62c8353adb587/artifacts
+end_time: 1743247670013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e50a6b70c170479c99c62c8353adb587
+run_name: casual-mink-864
+run_uuid: e50a6b70c170479c99c62c8353adb587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743247534587
+status: 3
+tags: []
+user_id: linuxachin

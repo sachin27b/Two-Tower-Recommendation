@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ea986c933be046989e93abeed403ffde/artifacts
+end_time: 1743004206296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea986c933be046989e93abeed403ffde
+run_name: hilarious-skunk-512
+run_uuid: ea986c933be046989e93abeed403ffde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743003447803
+status: 3
+tags: []
+user_id: linuxachin

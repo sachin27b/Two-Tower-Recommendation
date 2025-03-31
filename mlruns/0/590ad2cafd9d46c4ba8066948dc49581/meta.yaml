@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/590ad2cafd9d46c4ba8066948dc49581/artifacts
+end_time: 1743247702575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 590ad2cafd9d46c4ba8066948dc49581
+run_name: mysterious-trout-701
+run_uuid: 590ad2cafd9d46c4ba8066948dc49581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743247672663
+status: 3
+tags: []
+user_id: linuxachin
