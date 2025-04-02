@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/39921eca67b74c34b0c51f98e4526f5f/artifacts
+end_time: 1743595592344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39921eca67b74c34b0c51f98e4526f5f
+run_name: sassy-bird-429
+run_uuid: 39921eca67b74c34b0c51f98e4526f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743594903882
+status: 3
+tags: []
+user_id: linuxachin

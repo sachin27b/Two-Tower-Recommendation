@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5a62e7db6c41473daf172bc3923a35bd/artifacts
+end_time: 1743589598676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a62e7db6c41473daf172bc3923a35bd
+run_name: funny-pig-250
+run_uuid: 5a62e7db6c41473daf172bc3923a35bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743589500427
+status: 3
+tags: []
+user_id: linuxachin

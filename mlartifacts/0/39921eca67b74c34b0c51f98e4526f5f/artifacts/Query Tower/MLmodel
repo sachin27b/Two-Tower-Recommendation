@@ -1,0 +1,28 @@
+artifact_path: Query Tower
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.11
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cu124
+is_signature_from_type_hint: false
+mlflow_version: 2.21.0
+model_size_bytes: 825244
+model_uuid: 77cc4fd9f1484ca0b1cc697b5c219d87
+prompts: null
+run_id: 39921eca67b74c34b0c51f98e4526f5f
+signature:
+  inputs: '[{"type": "any", "required": true}]'
+  outputs: null
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-04-02 12:06:29.797364'
