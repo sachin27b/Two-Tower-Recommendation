@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 data/
+assets/gte-multilingual-base/
+mlartifacts/
+mlruns/
+notebook/mlruns/
