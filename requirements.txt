@@ -10,4 +10,5 @@ annoy
 mlflow
 beautifulsoup4
 ipywidgets
-faiss
+faiss-cpu
+streamlit
