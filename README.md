@@ -55,4 +55,7 @@ Now create a SQLite DB for product-Query details so that recommended products ca
 streamlit run app.py
 ````
 
+## Demo
+
+https://github.com/user-attachments/assets/8dcacabb-a5ba-430b-beba-94f4f5e79ff8
 
