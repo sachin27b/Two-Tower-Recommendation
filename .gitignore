@@ -166,3 +166,4 @@ assets/gte-multilingual-base/
 mlartifacts/
 mlruns/
 notebook/mlruns/
+assets/amazon_database.db

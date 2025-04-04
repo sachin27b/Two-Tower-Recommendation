@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 from scripts import get_embedding, get_tower_embedding, index_search
+import sqlite3
 
 st.set_page_config(layout="wide")
 
@@ -11,12 +12,14 @@ query = st.text_input("Search for a product:")
 query_tower_url = "http://localhost:5001/invocations"
 embedding_model_url = "http://localhost:5002/invocations"
 
+conn = sqlite3.connect("assets/amazon_database.db")
+
 if st.button("Search", type="primary") or query:
     if query: 
         with st.spinner("Searching products..."):
             q_embedding = get_embedding.get_embedding_from_model(query, embedding_model_url)
             q_tower_embedding = get_tower_embedding.get_query_tower_embedding(q_embedding, query_tower_url)
-            recommendations = index_search.retrieve_products(q_tower_embedding, index_path='assets/product_tower_embedding.index', top_k=10)
+            recommendations = index_search.retrieve_products(q_tower_embedding, conn, index_path='assets/product_tower_embedding.index', top_k=10)
         
         if recommendations.empty:
             st.warning("No products found. Try a different search term.")
